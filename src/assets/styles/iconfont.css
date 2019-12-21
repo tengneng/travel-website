@@ -1,0 +1,17 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont/iconfont.eot?t=1575179881277'); /* IE9 */
+  src: url('./iconfont/iconfont.eot?t=1575179881277#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPIAAsAAAAACCAAAAN7AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDPIMAATYCJAMUCwwABCAFhG0HTBsQB1FUTzpkPw9sG8Y6rGlMylDIqU7nT/FXer8jwJZttt2XRnegavU9HoVC0xW2WxQ4hMcYjCe+OxTuB8bpYF6IRLMcxSY6SfvNvfmEI2Ey0J/kkBXqUu7K6UtzAz3hmoC///9zP59XNoG89mwuWUUb7QxwlECzWVT9KKL/AfE7EG9d5mkCmiYoAe7fv37AUGZMCgiXifVhmFLKNZlBXVCVrMzCs6IeH+MGnvy/D7/WQ52oJMZZB8d3EVx+HH00KbPPUfr3MJ4e3DoSFgFkwlWp8VInDC4Cayr9u7aBproojtVt8/H80fQn5u5I3DSNxFH+8TKhYqS3wTZCmY8jGyHysUFIfDwjBD4a9os5qYAmGrgGXoHGT+oVBUkaBg5jyM4DmBGPrWrJJLNRzrdrQaGe5t/TqtgpBaakHsqU96sracmi+ddn0QMamjt8jo7sj48dDg/tDg4CukwDzxa3e9W3dLZT7eoa2zpoKYTiCQakaRJNLJlmQ5unbEvamzIL+6OKe7J6nXAdA2yHhpJmyhK6/3VNffXD2/xELIbkfSqbkJVnFnCFSIjWtQQAFn0SxucD9RMnRxJo79QEZnbgxFxP+hPgFN0Hfn4G94P7GH4f6DEdNMT261WCZ2bADq+CpYNB08CrRHGpRrOixUySvrk3FqA195fItcf4Y+y57M8N9eDCjtnHoTjahtK6yUhbptz96N2kpL99dUIy4RIxKZ6MLNyXAyQy+qYB0KgZ+uJ/ysH4UlznEoAs/v/OUV48VTWPrdOfOvo66t6x/FGOvgzox/wnIq1ZP4/VsiKrHENVslxqM+VhxSowiFxdE7/MOuRqHPFo63SCutEYoppxSOomURm3CEXLJlTqtqBpgdn6lmHROkJuYF4egWDAIERdb5AM2ERl3CUUY16gMhASNB2GvR1bpsPZ+EbIV4rQ+w+DQi6NpdFxkPlG1uW+JDk+4YukTjyorqKWjTxQSTLGnJhvu4lVg/7CBZqS8yjPGSOFUwp1EahaHauq+pd908KHCxjbI4hPkQjy9gcFCbGScWurce733xDLyfmkpqxC/YWIWtI5UqdCrQXqQVi2KruW18T4Zm3EUgbyJ1gBmRI9yc0gQ5Hlw1IkpBYCe/grx1Spav5thYv5xcUzboMmY8cSYkghhxIqtfPEL5Vd33hzYpf0a3a14766qkwBAAA=') format('woff2'),
+  url('./iconfont/iconfont.woff?t=1575179881277') format('woff'),
+  url('./iconfont/iconfont.ttf?t=1575179881277') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont/iconfont.svg?t=1575179881277#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
